@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Romi Kumar Singh</h1>
-<h3 align="center">An aspiring software developer from India</h3>
+<h3 align="center">An aspiring  developer from India</h3>
 
-- 🌱 I’m currently learning **Python and its Libraries for Data science**
+- 🌱 I’m currently learning **front-end Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/romirajput544](https://github.com/romirajput544)
 
-- 📫 How to reach me **romirajpyt544@gmail.com**
+- 📫 How to reach me **romirajput544@gmail.com**
 
 - ⚡ Fun fact **Pandemic spoilled my half now it's recession revenge time.**
 
