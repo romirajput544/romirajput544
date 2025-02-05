@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Romi Kumar Singh</h1>
-<h3 align="center">An aspiring  developer from India</h3>
+<h3 align="center">A software developer Trainee at Hexaware Tech. from India</h3>
 
-- 🌱 I’m currently learning **front-end Technologies**
+- 🌱 I’m currently learning **Spring-Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/romirajput544](https://github.com/romirajput544)
 
